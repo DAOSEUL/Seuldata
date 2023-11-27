@@ -17,6 +17,7 @@
 | xSEUL Token          | [`terra1q328gl40az3cf9x67cgudn8e8w2az9vsmhtkwsgdu7a43rhy5caqc82yr5`](https://terrasco.pe/mainnet/address/terra1q328gl40az3cf9x67cgudn8e8w2az9vsmhtkwsgdu7a43rhy5caqc82yr5)        |
 | SEUL Staking xSEUL          | [`terra1chx8lsvhhutec2es64062r03zj3gfhkqvqy46nxarzuy5tlyztasehwpys`](https://terrasco.pe/mainnet/address/terra1chx8lsvhhutec2es64062r03zj3gfhkqvqy46nxarzuy5tlyztasehwpys)        |
 | SEUL-axlUsdc Pair   | [`terra1etafgl0xun96jm3wnwvvtmmkh6hxunzwnq3v950ea5jflywwrj4srxx409`](https://chainsco.pe/terra2/address/terra1etafgl0xun96jm3wnwvvtmmkh6hxunzwnq3v950ea5jflywwrj4srxx409#!) |
+| SEUL-xSEUL Pair   | [`terra1ps9fnt07wesrnzknmu8x5tun75w4rjqy4xjaud28tjg4dg7859yscj34k4`](https://chainsco.pe/terra2/address/terra1ps9fnt07wesrnzknmu8x5tun75w4rjqy4xjaud28tjg4dg7859yscj34k4#!) |
 
 
 
