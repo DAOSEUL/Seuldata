@@ -1,7 +1,10 @@
-### 'SEUL' Run on Terra Blockchain 
+### 'SEUL DAO' Run on Terra Blockchain
+
+### 'SEUL'
 ![image.png](https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/seul.png)
 
-
+### 'xSEUL'
+![image.png](https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/xseul.png)
 
 
 ### Mainnet Terra (phoenix-1)
