@@ -16,8 +16,8 @@
 | SEUL Token          | [`terra13s5pxw5j2p4ssvzwvxd8l7h30vke8vjgtng75vqgv6p9vddfk3hskfka0l`](https://terrasco.pe/mainnet/address/terra13s5pxw5j2p4ssvzwvxd8l7h30vke8vjgtng75vqgv6p9vddfk3hskfka0l)        |
 | xSEUL Token          | [`terra1q328gl40az3cf9x67cgudn8e8w2az9vsmhtkwsgdu7a43rhy5caqc82yr5`](https://terrasco.pe/mainnet/address/terra1q328gl40az3cf9x67cgudn8e8w2az9vsmhtkwsgdu7a43rhy5caqc82yr5)        |
 | SEUL Staking xSEUL          | [`terra1chx8lsvhhutec2es64062r03zj3gfhkqvqy46nxarzuy5tlyztasehwpys`](https://terrasco.pe/mainnet/address/terra1chx8lsvhhutec2es64062r03zj3gfhkqvqy46nxarzuy5tlyztasehwpys)        |
-| SEUL-axlUsdc Pair   | [`terra1etafgl0xun96jm3wnwvvtmmkh6hxunzwnq3v950ea5jflywwrj4srxx409`](https://chainsco.pe/terra2/address/terra1etafgl0xun96jm3wnwvvtmmkh6hxunzwnq3v950ea5jflywwrj4srxx409#!) |
-| SEUL-xSEUL Pair   | [`terra1ps9fnt07wesrnzknmu8x5tun75w4rjqy4xjaud28tjg4dg7859yscj34k4`](https://chainsco.pe/terra2/address/terra1ps9fnt07wesrnzknmu8x5tun75w4rjqy4xjaud28tjg4dg7859yscj34k4#!) |
+| SEUL-axlUsdt Pair   | [`terra13v3gl6jxxmfneaerte5nx3jwsq585utznum97mvh4l2qnrdgp7usrvr4r8`](https://chainsco.pe/terra2/address/terra13v3gl6jxxmfneaerte5nx3jwsq585utznum97mvh4l2qnrdgp7usrvr4r8#!) |
+| xSEUL-axlUsdt Pair   | [`terra1m8me49mcvldxe2qsrxnk7jn6x8xw858gcm6zmeumz0rm80gg3cpq2625cf`](https://chainsco.pe/terra2/address/terra1m8me49mcvldxe2qsrxnk7jn6x8xw858gcm6zmeumz0rm80gg3cpq2625cf#!) |
 
 
 
