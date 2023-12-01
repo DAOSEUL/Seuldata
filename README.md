@@ -26,7 +26,7 @@
 
 | INFO                | Link         |
 | ------------------- | ---------    |
-| Enterprise Contracts Source code                           | [`ClickHere`]() |
-| WebApp SEUL DAO                            | [`ClickHere`]() |
+| Enterprise Contracts Source code                           | [`ClickHere`](https://github.com/terra-money/enterprise-contracts) |
+| WebApp SEUL DAO                            | [`ClickHere`](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dao.enterprise.money/dao?address=terra1drr8nqc4r6nwf0vy0klvlsqalgx4xy2japprsayqh678zt4tv28sf7atff) |
 | SEUL telegram channel                           | [`ClickHere`]() |
 | SEUL twitter                           | [`Clickhere`]() |
